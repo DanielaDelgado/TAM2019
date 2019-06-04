@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/captura" android:duration="100" />
+    <item android:drawable="@drawable/captura2" android:duration="100" />
+    <item android:drawable="@drawable/captura3" android:duration="100" />
+    <item android:drawable="@drawable/captura4" android:duration="100" />
+    <item android:drawable="@drawable/captura5" android:duration="100" />
+    <item android:drawable="@drawable/captura6" android:duration="100" />
+    <item android:drawable="@drawable/captura7" android:duration="100" />
+    <item android:drawable="@drawable/captura8" android:duration="100" />
+    <item android:drawable="@drawable/captura9" android:duration="100" />
+    <item android:drawable="@drawable/captura10" android:duration="100" />
+    <item android:drawable="@drawable/captura11" android:duration="100" />
+    <item android:drawable="@drawable/captura12" android:duration="100" />
+    <item android:drawable="@drawable/captura13" android:duration="100" />
+    <item android:drawable="@drawable/captura14" android:duration="100" />
+    <item android:drawable="@drawable/captura15" android:duration="100" />
+    <item android:drawable="@drawable/captura16" android:duration="100" />
+    <item android:drawable="@drawable/captura17" android:duration="100" />
+    <item android:drawable="@drawable/captura18" android:duration="100" />
+    <item android:drawable="@drawable/captura19" android:duration="100" />
+    <item android:drawable="@drawable/captura20" android:duration="100" />
+    <item android:drawable="@drawable/captura21" android:duration="100" />
+    <item android:drawable="@drawable/captura22" android:duration="100" />
+    <item android:drawable="@drawable/captura23" android:duration="100" />
+    <item android:drawable="@drawable/captura24" android:duration="100" />
+    <item android:drawable="@drawable/captura25" android:duration="100" />
+    <item android:drawable="@drawable/captura26" android:duration="100" />
+    <item android:drawable="@drawable/captura27" android:duration="100" />
+    <item android:drawable="@drawable/captura28" android:duration="100" />
+    <item android:drawable="@drawable/captura29" android:duration="100" />
+    <item android:drawable="@drawable/captura30" android:duration="100" />
+    <item android:drawable="@drawable/captura31" android:duration="100" />
+    <item android:drawable="@drawable/captura32" android:duration="100" />
+    <item android:drawable="@drawable/captura33" android:duration="100" />
+    <item android:drawable="@drawable/captura34" android:duration="100" />
+    <item android:drawable="@drawable/captura35" android:duration="100" />
+
+
+
+    <item android:drawable="@drawable/captura" android:duration="100" />
+    <item android:drawable="@drawable/captura2" android:duration="100" />
+    <item android:drawable="@drawable/captura3" android:duration="100" />
+    <item android:drawable="@drawable/captura4" android:duration="100" />
+    <item android:drawable="@drawable/captura5" android:duration="100" />
+    <item android:drawable="@drawable/captura6" android:duration="100" />
+    <item android:drawable="@drawable/captura7" android:duration="100" />
+    <item android:drawable="@drawable/captura8" android:duration="100" />
+    <item android:drawable="@drawable/captura9" android:duration="100" />
+    <item android:drawable="@drawable/captura10" android:duration="100" />
+    <item android:drawable="@drawable/captura11" android:duration="100" />
+    <item android:drawable="@drawable/captura12" android:duration="100" />
+    <item android:drawable="@drawable/captura13" android:duration="100" />
+    <item android:drawable="@drawable/captura14" android:duration="100" />
+    <item android:drawable="@drawable/captura15" android:duration="100" />
+    <item android:drawable="@drawable/captura16" android:duration="100" />
+    <item android:drawable="@drawable/captura17" android:duration="100" />
+    <item android:drawable="@drawable/captura18" android:duration="100" />
+    <item android:drawable="@drawable/captura19" android:duration="100" />
+    <item android:drawable="@drawable/captura20" android:duration="100" />
+    <item android:drawable="@drawable/captura21" android:duration="100" />
+    <item android:drawable="@drawable/captura22" android:duration="100" />
+    <item android:drawable="@drawable/captura23" android:duration="100" />
+    <item android:drawable="@drawable/captura24" android:duration="100" />
+    <item android:drawable="@drawable/captura25" android:duration="100" />
+    <item android:drawable="@drawable/captura26" android:duration="100" />
+    <item android:drawable="@drawable/captura27" android:duration="100" />
+    <item android:drawable="@drawable/captura28" android:duration="100" />
+    <item android:drawable="@drawable/captura29" android:duration="100" />
+    <item android:drawable="@drawable/captura30" android:duration="100" />
+    <item android:drawable="@drawable/captura31" android:duration="100" />
+    <item android:drawable="@drawable/captura32" android:duration="100" />
+    <item android:drawable="@drawable/captura33" android:duration="100" />
+    <item android:drawable="@drawable/captura34" android:duration="100" />
+    <item android:drawable="@drawable/captura35" android:duration="100" />
+</animation-list>
