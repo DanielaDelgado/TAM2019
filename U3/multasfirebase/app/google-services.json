@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330001639919",
+    "firebase_url": "https://multas-7f3ee.firebaseio.com",
+    "project_id": "multas-7f3ee",
+    "storage_bucket": "multas-7f3ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330001639919:android:cffbc9b8bfbdd4de",
+        "android_client_info": {
+          "package_name": "com.example.multasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330001639919-1mke232fvocd8h880ab5g3q7rf36gb5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multasfirebase",
+            "certificate_hash": "69a200cea7716a77973f38c03857c14b67c22109"
+          }
+        },
+        {
+          "client_id": "330001639919-1q3jps7r6l9h1365995qlk4ou57jstdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9ykTBOvfjcdLBDCHK57drYMWQU22p_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330001639919-1q3jps7r6l9h1365995qlk4ou57jstdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
